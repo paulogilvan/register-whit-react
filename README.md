@@ -1,8 +1,16 @@
-# React + Vite
+# Cadastro Usuários "nome e idade"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias Usadas:
 
-Currently, two official plugins are available:
+  REACT<img align="center" alt="Paulo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Paulo-REACT" />
+  ## styled-components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Intalação
+`npm install`
+
+### Para rodar o projeto
+`npm run dev`
+
+<img src="https://github.com/paulogilvan/register-whit-react/blob/master/src/assets/img-register.png?raw=true" />
+
+<img src="https://github.com/paulogilvan/register-whit-react/blob/master/src/assets/img-registered.png?raw=true" />
